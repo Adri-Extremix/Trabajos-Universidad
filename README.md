@@ -43,3 +43,28 @@ Se buscaba resolver un problema a través de la técnica conocida como **Program
 #### [Programación de restricciones y Búsqueda Heurística](https://github.com/CLopMan/heuristica-p2)
 En esta práctica se presentaban dos problemas distintos diferencias como parte 1 y parte 2. El problema de la primera parte consistia en modelar y resolver el aparcamiento de ambulancias en un parking con unas restricciones en específico, esta parte debía de ser resuelta a través de la técnica de resolución de problemas de programación de restricciones conocida como **CSP**. El problema presentado en la segunda parte consiste en modelar y resolver la recogida de enfermos por una ambulancia en un mapa con una serie de restricciones, para ello se debe de utilizar **Búsqueda Heurística**
 
+### Arquitectura de Computadores
+
+En esta asignatura se exploran las diferentes técnicas utilizadas para mejorar el rendimiento de un procesador, entre otras el uso de la caché, _pipeline_ y _multithreading_
+
+#### [Proyecto de Optimización](https://github.com/100472175/AC_Lab1)
+Para esta práctica se exponía un modelo de movimiento de particulas en un fluido y se buscaba implementar este modelo para un número de iteraciones. Tras esto se incentivaba que el tiempo de ejecución para ese mismo número de iteraciones fuese el mínimo posible sin paralelizar
+
+### Interfaces de Usuario
+
+Durante esta asignatura se nos ha enseñado a diseñar basandose en los usuarios y buscando facilidades para estos. 
+
+#### [Página Web de un Restaurante con formato especificado](https://github.com/Adri-Extremix/Interfaces_Ejercicio_Web)
+
+Esta práctica consisitía en crear una página web con un formato especificado
+
+#### [Página Web de un Restaurante libre](https://github.com/Adri-Extremix/practica_final_interfaces)
+
+Para esta prácticaa se nos pedía realizar un análisis de otras páginas web y con lo analizado crear una página web propia en que se pudiera realizar una reserva y un pedido adomicilio, pero con total libertad
+
+### Criptografía
+Criptografía es una asignatura que introduce los principales conceptos usados en la vida real para ocultar los datos de gran importancia
+
+#### [Aplicación Libre con aplicaciones de criptografía](https://github.com/Adri-Extremix/PracticaCriptografia)
+
+En esta aplicación libre se decidió implementar un banco simple que permita seguir tu historial de gastos y cobros. Para ello se utilizan diversas técnicas de criptografía para cifrar los datos y recuperarlos para que el usuario al que le corresponden los datos pueda consultarlos

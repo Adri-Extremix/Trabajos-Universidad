@@ -2,45 +2,45 @@
 
 En este repositorio se podrán explorar algunos de los trabajos realizados durante mi instancia por la universidad Uc3m
 
-# Índice
+## Índice
 
-### [Desarrollo de Software](#desarrollo-de-software)
+#### [Desarrollo de Software](#desarrollo-de-software)
 - [Ejercicio Guiado 2](#ejercicio-guiado-2)
 - [Ejercicio Guiado 3](#ejercicio-guiado-3)
 
-### [Inteligencia Artificial](#inteligencia-artificial)
+#### [Inteligencia Artificial](#inteligencia-artificial)
 - [MDP para un termostato](#mdp-para-un-termostato)
 
-### [Sistemas Operativos](#sistemas-operativos)
+#### [Sistemas Operativos](#sistemas-operativos)
 - [Desarrollo de una minishell](#desarrollo-de-una-minishell)
 - [Desarrollo de un sistema Productor-Consumidor](#desarrollo-de-un-sistema-productor-consumidor)
 
-### [Heurística y Optimización](#heurística-y-optimización)
+#### [Heurística y Optimización](#heurística-y-optimización)
 - [Programación Lineal](#programación-lineal)
 - [Programación de restricciones y Búsqueda Heurística](#programación-de-restricciones-y-búsqueda-heurística)
 
-### [Arquitectura de Computadores](#arquitectura-de-computadores)
+#### [Arquitectura de Computadores](#arquitectura-de-computadores)
 - [Proyecto de Optimización](#proyecto-de-optimización)
 
-### [Interfaces de Usuario](#interfaces-de-usuario)
+#### [Interfaces de Usuario](#interfaces-de-usuario)
 - [Página Web de un Restaurante con formato especificado](#página-web-de-un-restaurante-con-formato-especificado)
 - [Página Web de un Restaurante libre](#página-web-de-un-restaurante-libre)
 
-### [Criptografía](#criptografía)
+#### [Criptografía](#criptografía)
 - [Aplicación Libre con técnicas de criptografía](#aplicación-libre-con-técnicas-de-criptografía)
 
-### [Sistemas Distribuidos](#sistemas-distribuidos)
+#### [Sistemas Distribuidos](#sistemas-distribuidos)
 - [Ejercicio 1 Colas de Mensajes POSIX](#ejercicio-1-colas-de-mensajes-posix)
 - [Ejercicio 2 Sockets](#ejercicio-2-sockets)
 - [Ejercicio 3 RPC](#ejercicio-3-rpc)
 - [Proyecto Peer to Peer](#proyecto-peer-to-peer)
 
-### [Sistemas Interactivos y Ubicuos](#sistemas-interactivos-y-ubicuos)
+#### [Sistemas Interactivos y Ubicuos](#sistemas-interactivos-y-ubicuos)
 - [Laboratorio 1](#laboratorio-1)
 - [Laboratorio 2](#laboratorio-2)
 - [Proyecto Final](#proyecto-final)
 
-### [Aprendizaje Automático](#aprendizaje-automático)
+#### [Aprendizaje Automático](#aprendizaje-automático)
 - [Aprendizaje Supervisado](#aprendizaje-supervisado)
 - [Clustering](#clustering)
 

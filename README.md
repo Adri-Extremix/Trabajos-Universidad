@@ -1,14 +1,10 @@
 # Trabajos-Universidad
 
-## Introducción
-
 En este repositorio se podrán explorar algunos de los trabajos realizados durante mi instancia por la universidad Uc3m
-
-## Prácticas pequeñas
 
 ### Desarrollo de Software
 
-Durante esta asignatura se exploraba el desarrollo de proyectos de forma colaborativa e incentivando el uso de buenas prácticas
+Durante esta asignatura se ha explorado el desarrollo de proyectos de forma colaborativa e incentivando el uso de buenas prácticas
 
 #### [Ejercicio Guiado 2](https://github.com/100472092/G81.2023.T03.EG2)
 El desarrollo de esta práctica buscaba crear una normativa de código de python a través de la herramienta pylintrc
@@ -65,6 +61,45 @@ Para esta prácticaa se nos pedía realizar un análisis de otras páginas web y
 ### Criptografía
 Criptografía es una asignatura que introduce los principales conceptos usados en la vida real para ocultar los datos de gran importancia
 
-#### [Aplicación Libre con aplicaciones de criptografía](https://github.com/Adri-Extremix/PracticaCriptografia)
+#### [Aplicación Libre con técnicas de criptografía](https://github.com/Adri-Extremix/PracticaCriptografia)
 
 En esta aplicación libre se decidió implementar un banco simple que permita seguir tu historial de gastos y cobros. Para ello se utilizan diversas técnicas de criptografía para cifrar los datos y recuperarlos para que el usuario al que le corresponden los datos pueda consultarlos
+
+### Sistemas Distribuidos
+Las prácticas de esta asignatura estaban enfocadas a aprender a usar distintos métodos de pasos de mensajes para comunicar 2 o más procesos
+
+#### [Ejercicio 1 Colas de Mensajes POSIX](https://github.com/CLopMan/distribuidos_p1-colasposix)
+Este ejercicio consistia en implementar las funcionalidades de unas funciones que utilizaban un vector pero de manera distribuida a través de colas POSIX, para ello el proceso cliente ejecuta las funciones y debe de comunicarse con el proceso servidor para ejecutar la implementación de las mismas funciones y devolver el resultado al cliente.
+
+#### [Ejercicio 2 Sockets](https://github.com/CLopMan/distribuidos_p2-sockets)
+Este ejercicio consistia en reutilizar la implementación del ejericio 1 y cambiar el método de paso de mensajes, en este caso se utilizarán _sockets_
+
+#### [Ejercicio 3 RPC](https://github.com/CLopMan/distribuidos_p3-rpc)
+Este ejercicio consistia en reutilizar la implementación del ejericio 1 y cambiar el método de paso de mensajes, en este caso se utilizarán _rpc_
+
+#### [Proyecto Peer to Peer](https://github.com/Adri-Extremix/distribuidos_final)
+En este proyecto se pedía contruir una aplicación peer-to-peer sencilla, donde los distintos usuarios puedan publicar sus archivos y puedan ser descargados por otros. El proyecto cuenta con una interfaz cliente creada en python que se comunica con el servidor a través de distintos comandos.
+
+### Sistemas Interactivos y Ubicuos
+En esta asignatura se buscaba profundizar en los distintos modos de interacción del usuario con el sistema, además de explorar el funcionamiento de WebAPIs y NodeJs
+
+#### [Laboratorio 1](https://github.com/Adri-Extremix/Ubicuos_Lab1)
+Este laboratorio consistía en realizar una aplicación web que utilizase las WebAPIs de geolocalización y vibración con el objetivo de despertar al usuario vibrando cuando se acercase a su objetivo durante un viaje en transporte público
+
+#### [Laboratorio 2](https://github.com/Adri-Extremix/Ubicuos_Lab2)
+Este laboratorio consistía en realizar una lista de tareas combinando distintos modos de interacción
+
+#### [Proyecto Final](https://github.com/CLopMan/SSIIUU-final)
+Para el proyecto final se pedía realizar una aplicación de adquisición de artículos con un carrito, pero incentivando la diversidad de modos de interacción. Para ello se creó una aplicación de compra gamificada con distintos elementos de juegos para incentivar a la compra
+
+### Aprendizaje Automático
+
+Aprendizaje Automático es una asignatura enfocada a aprender las diferentes técnicas de _Machine Learning_, estas técnias se utilizarán a través de la librería de _python_ ```Scikit-learn```
+
+#### [Aprendizaje Supervisado](https://github.com/PaulaUc3m/Grupo4_P1AA)
+Para esta práctica se pedía analizar el dataset dado y encontrar el modelo que mejor realice predicciones y que mejor generalice
+
+#### [Clustering](https://github.com/PaulaUc3m/Grupo4_P2AA)
+Esta práctica consistia en utilizar técnicas de clustering para encontrar patrones dentro de un dataset, además se pedía realizar una propia implementación de _K-means_ y compararla con la implementación de la librería utilizada
+
+

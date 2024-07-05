@@ -46,7 +46,7 @@ En este repositorio se podrán explorar algunos de los trabajos realizados duran
 
 ## Asignaturas
 
-### [Desarrollo de Software]
+### Desarrollo de Software
 
 Durante esta asignatura se ha explorado el desarrollo de proyectos de forma colaborativa e incentivando el uso de buenas prácticas
 

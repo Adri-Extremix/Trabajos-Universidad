@@ -15,19 +15,19 @@ En este repositorio se podrán explorar algunos de los trabajos realizados duran
 - [Desarrollo de una minishell](#desarrollo-de-una-minishell)
 - [Desarrollo de un sistema Productor-Consumidor](#desarrollo-de-un-sistema-productor-consumidor)
 
-#### [Heurística y Optimización](#heurística-y-optimización)
-- [Programación Lineal](#programación-lineal)
-- [Programación de restricciones y Búsqueda Heurística](#programación-de-restricciones-y-búsqueda-heurística)
+#### [Heurística y Optimización](#heuristica-y-optimizacion)
+- [Programación Lineal](#programacion-lineal)
+- [Programación de restricciones y Búsqueda Heurística](#programacion-de-restricciones-y-busqueda-heuristica)
 
 #### [Arquitectura de Computadores](#arquitectura-de-computadores)
-- [Proyecto de Optimización](#proyecto-de-optimización)
+- [Proyecto de Optimización](#proyecto-de-optimizacion)
 
 #### [Interfaces de Usuario](#interfaces-de-usuario)
-- [Página Web de un Restaurante con formato especificado](#página-web-de-un-restaurante-con-formato-especificado)
-- [Página Web de un Restaurante libre](#página-web-de-un-restaurante-libre)
+- [Página Web de un Restaurante con formato especificado](#pagina-web-de-un-restaurante-con-formato-especificado)
+- [Página Web de un Restaurante libre](#pagina-web-de-un-restaurante-libre)
 
-#### [Criptografía](#criptografía)
-- [Aplicación Libre con técnicas de criptografía](#aplicación-libre-con-técnicas-de-criptografía)
+#### [Criptografía](#criptografia)
+- [Aplicación Libre con técnicas de criptografía](#aplicacion-libre-con-tecnicas-de-criptografia)
 
 #### [Sistemas Distribuidos](#sistemas-distribuidos)
 - [Ejercicio 1 Colas de Mensajes POSIX](#ejercicio-1-colas-de-mensajes-posix)
@@ -40,7 +40,7 @@ En este repositorio se podrán explorar algunos de los trabajos realizados duran
 - [Laboratorio 2](#laboratorio-2)
 - [Proyecto Final](#proyecto-final)
 
-#### [Aprendizaje Automático](#aprendizaje-automático)
+#### [Aprendizaje Automático](#aprendizaje-automatico)
 - [Aprendizaje Supervisado](#aprendizaje-supervisado)
 - [Clustering](#clustering)
 
@@ -145,5 +145,3 @@ Para esta práctica se pedía analizar el dataset dado y encontrar el modelo que
 
 #### [Clustering](https://github.com/PaulaUc3m/Grupo4_P2AA)
 Esta práctica consistia en utilizar técnicas de clustering para encontrar patrones dentro de un dataset, además se pedía realizar una propia implementación de _K-means_ y compararla con la implementación de la librería utilizada
-
-

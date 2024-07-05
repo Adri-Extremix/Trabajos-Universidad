@@ -15,19 +15,19 @@ En este repositorio se podrán explorar algunos de los trabajos realizados duran
 - [Desarrollo de una minishell](#desarrollo-de-una-minishell)
 - [Desarrollo de un sistema Productor-Consumidor](#desarrollo-de-un-sistema-productor-consumidor)
 
-#### [Heurística y Optimización](#heuristica-y-optimizacion)
-- [Programación Lineal](#programacion-lineal)
-- [Programación de restricciones y Búsqueda Heurística](#programacion-de-restricciones-y-busqueda-heuristica)
+#### [Heurística y Optimización](#heurística-y-optimización)
+- [Programación Lineal](#programación-lineal)
+- [Programación de restricciones y Búsqueda Heurística](#programación-de-restricciones-y-búsqueda-heurística)
 
 #### [Arquitectura de Computadores](#arquitectura-de-computadores)
-- [Proyecto de Optimización](#proyecto-de-optimizacion)
+- [Proyecto de Optimización](#proyecto-de-optimización)
 
 #### [Interfaces de Usuario](#interfaces-de-usuario)
-- [Página Web de un Restaurante con formato especificado](#pagina-web-de-un-restaurante-con-formato-especificado)
-- [Página Web de un Restaurante libre](#pagina-web-de-un-restaurante-libre)
+- [Página Web de un Restaurante con formato especificado](#página-web-de-un-restaurante-con-formato-especificado)
+- [Página Web de un Restaurante libre](#página-web-de-un-restaurante-libre)
 
-#### [Criptografía](#criptografia)
-- [Aplicación Libre con técnicas de criptografía](#aplicacion-libre-con-tecnicas-de-criptografia)
+#### [Criptografía](#criptografía)
+- [Aplicación Libre con técnicas de criptografía](#aplicación-libre-con-técnicas-de-criptografía)
 
 #### [Sistemas Distribuidos](#sistemas-distribuidos)
 - [Ejercicio 1 Colas de Mensajes POSIX](#ejercicio-1-colas-de-mensajes-posix)
@@ -40,7 +40,7 @@ En este repositorio se podrán explorar algunos de los trabajos realizados duran
 - [Laboratorio 2](#laboratorio-2)
 - [Proyecto Final](#proyecto-final)
 
-#### [Aprendizaje Automático](#aprendizaje-automatico)
+#### [Aprendizaje Automático](#aprendizaje-automático)
 - [Aprendizaje Supervisado](#aprendizaje-supervisado)
 - [Clustering](#clustering)
 
@@ -138,7 +138,11 @@ Para el proyecto final se pedía realizar una aplicación de adquisición de art
 
 ### Aprendizaje Automático
 
-Aprendizaje Automático es una asignatura enfocada a aprender las diferentes técnicas de _Machine Learning_, estas técnias se utilizarán a través de la librería de _python_ ```Scikit-learn```
+Aprendizaje Automático es una asignatura enfocada a aprender las diferentes técnicas de _Machine Learning_, estas técnias se utilizarán a través de la librería de _python_ 
+
+Scikit-learn
+
+
 
 #### [Aprendizaje Supervisado](https://github.com/PaulaUc3m/Grupo4_P1AA)
 Para esta práctica se pedía analizar el dataset dado y encontrar el modelo que mejor realice predicciones y que mejor generalice

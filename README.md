@@ -1,6 +1,6 @@
 # Trabajos-Universidad
 
-En este repositorio se podrán explorar algunos de los trabajos realizados durante mi instancia por la universidad Uc3m
+En este repositorio se podrán explorar algunos de los trabajos realizados durante mi instancia por la Universidad Carlos III de Madrid
 
 ### Desarrollo de Software
 

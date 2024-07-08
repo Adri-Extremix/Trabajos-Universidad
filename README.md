@@ -27,7 +27,7 @@ En esta asignatura se explora el funcionamiento general de un sistema operativo,
 Partiendo de código inicial que analiza la entrada dada por teclado, se buscaba reproducir la shell de un sistema operativo **UNIX**, haciendo especial hincapié en simular mandatos simples y combinados a través de pipes
 
 #### [Desarrollo de un sistema Productor-Consumidor (C)](https://github.com/Adri-Extremix/SO_p3_productor-consumidor)
-Recrear un sistema **Productor-Consumidor** a través de una función que produzca, añadiendo un elemento en una cola circula, y otra función que consuma, quitando un elemento de la cola. Se deberá indicar como argumento el número de **Productores** y de **Consumidores**, y cada uno corresponderá con un hilo del sistema operativo
+Recrear un sistema **Productor-Consumidor** a través de una función que produzca, añadiendo un elemento en una cola circular, y otra función que consuma, quitando un elemento de la cola. Se deberá indicar como argumento el número de **Productores** y de **Consumidores**, y cada uno corresponderá con un hilo del sistema operativo
 
 ### Heurística y Optimización
 
